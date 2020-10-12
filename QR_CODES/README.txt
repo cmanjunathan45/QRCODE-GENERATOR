@@ -1,0 +1,1 @@
+All the QR codes are saved in this folder
